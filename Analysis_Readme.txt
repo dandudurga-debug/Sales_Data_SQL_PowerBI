@@ -1,11 +1,11 @@
-Overview
+Overview:
 		Total Revenue: 984.81M
 		Total Sales Quantity: 2.429282M
-Filters
+Filters:
 		Year: 2017–2020
 		Month: June–May (12 months shown as selectable)
 		
-Revenue Trend
+Revenue Trend:
         Shows monthly revenue trend from 2017 to 2020.
 
 			High points:
@@ -15,7 +15,7 @@ Revenue Trend
 			Low point:
 					~14.7M in 2020 (end of graph)
 
-Customer Analysis
+Customer Analysis:
 	    Top 5 Customers by Revenue:
 			Electricalsara Stores: 0.41B
 			Electricalslytical: 0.05B
@@ -23,7 +23,7 @@ Customer Analysis
 			Premium Stores: 0.04B
 			Nixon: 0.04B
 
-Product Analysis
+Product Analysis:
 		Top 5 Products by Revenue:
 		   (Blank): highest
 			Prod040
@@ -31,7 +31,7 @@ Product Analysis
 			Prod065
 			Prod018
 
-Geographic Analysis
+Geographic Analysis:
 		Sales Qty by City (Pie Chart):
 		
 			Delhi NCR: 988.29K (40.68%)
